@@ -1,0 +1,33 @@
+langkah pertama
+$ git clone https://github.com/Qhosairiray/Aplikasi-Kursus.git
+
+setelah itu masuk ke folder project 
+setelah itu di inisialisasi
+$ git init
+
+Setelah itu add
+$ git add .
+
+Selajutnya
+$ git commit -m "ini penambahan subbaru"
+
+Lalu cek Status
+$ git status
+
+Setelah itu upload
+$ git push
+
+jika sudah mengidit atau menambah file di folder tersebut,
+cek terlebih dahulu
+lalu jalakan peritah untuk menambahkan
+$ git add .
+
+Seletaleh itu berikan coment
+$ git commit -m "Masukan index Baru"
+
+lalu jalankah peintah
+$ git push
+
+Setelah itu cek
+
+jika ingin mengabil data dari repo yang 
