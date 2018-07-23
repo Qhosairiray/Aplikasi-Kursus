@@ -7,6 +7,8 @@ ini adalah percobaan 2
 ## Ini header 2
 ### Ini header 3
 
-lore ipsum
+lore [ipsum](http://google.com)
 
 ini tulisan biasa, _miring_, __tebal__.
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
